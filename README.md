@@ -24,3 +24,28 @@ git clone https://github.com/yourusername/JobFinderBot.git
 Run the following command to install all the required packages:npm install
 4. Set Environment Variables
 Create a .env file in the root directory to store your API key securely.
+REACT_APP_API_KEY=your_api_key_here
+5. Start the Server
+Run the following command to start the React development server:npm start
+
+📄 Usage
+Open the application in your browser.
+Enter a job title or keyword in the search bar.
+Click the Search button to view job listings.
+Click on Apply Now links to apply for jobs directly.
+
+📚 API Documentation
+The project uses the JSearch API from RapidAPI to fetch job listings in real-time.
+
+Endpoint:
+https://jsearch.p.rapidapi.com/search
+
+Headers:{
+  "X-RapidAPI-Key": "your_api_key_here",
+  "X-RapidAPI-Host": "jsearch.p.rapidapi.com"
+}
+Query Parameters:
+
+query: Job title or keyword (e.g., "Software Engineer").
+num_pages: Number of pages to return (default: 1).
+
