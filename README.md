@@ -15,4 +15,7 @@ Easy-to-use interface with search and filter options.
 - JSearch API
 - HTML5, CSS3
 
-- 
+🚀 Steps to Run the Project Locally
+1. Clone the Repository
+git clone https://github.com/yourusername/JobFinderBot.git
+
