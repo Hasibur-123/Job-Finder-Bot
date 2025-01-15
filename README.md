@@ -33,6 +33,7 @@ Open the application in your browser.
 Enter a job title or keyword in the search bar.
 Click the Search button to view job listings.
 Click on Apply Now links to apply for jobs directly.
+Use Swagger UI to test API endpoints (http://localhost:8000/api-doc).
 
 📚 API Documentation
 The project uses the JSearch API from RapidAPI to fetch job listings in real-time.
