@@ -19,7 +19,8 @@ Easy-to-use interface with search and filter options.
 1. Clone the Repository
 git clone https://github.com/yourusername/JobFinderBot.git
 2. Navigate to the Project Directory
-cd JobFinderBot
+:cd JobFinderBot
 3. Install Dependencies
 Run the following command to install all the required packages:npm install
-
+4. Set Environment Variables
+Create a .env file in the root directory to store your API key securely.
