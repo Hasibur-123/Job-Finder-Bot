@@ -18,4 +18,8 @@ Easy-to-use interface with search and filter options.
 🚀 Steps to Run the Project Locally
 1. Clone the Repository
 git clone https://github.com/yourusername/JobFinderBot.git
+2. Navigate to the Project Directory
+cd JobFinderBot
+3. Install Dependencies
+Run the following command to install all the required packages:npm install
 
